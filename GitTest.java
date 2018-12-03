@@ -3,4 +3,7 @@ public class GitTest{
 	public GitTest(){
 		test = "This is my Github Test";
 	}
+	public String toString(){
+		return test;
+	}
 }
